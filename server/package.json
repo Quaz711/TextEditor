@@ -4,13 +4,15 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-        "server": "nodemon server.js --ignore client"
+        "server": "nodemon server.js --ignore client",
+        "start": "node server.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Antonio De Filippis",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.17.1",
+        "node": "^19.6.1"
     },
     "devDependencies": {
         "nodemon": "^2.0.4"
