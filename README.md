@@ -32,11 +32,11 @@
   none
   
   ## Images:
-  ![This is a gif showing how the application functions.](./assets/images/application.gif)
+  ![This is a gif showing how the application functions.](./assets/images/TextEditor.gif)
 
   ## Walkthrough:
   Video of the application running
-  [Screencastify](https://drive.google.com/file/d/1vkioHyQ-EjQq3cwMOtYwjyInNh75JlU3/view)
+  [Screencastify](https://drive.google.com/file/d/1_PHPAJ7vTKMmCSDV40JWm2lxXHJ_VPTJ/view)
 
   ## Questions?:
   - Github: [Quaz711](https://github.com/Quaz711)
