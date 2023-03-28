@@ -40,5 +40,6 @@
 
   ## Questions?:
   - Github: [Quaz711](https://github.com/Quaz711)
+  - Deployed: [TextEditor](https://xtreme-text-editor.herokuapp.com/)
   - Email: Quaz711@hotmail.com
   - Additional: You can contact me through my email or send a request on github
